@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://w0.peakpx.com/wallpaper/188/358/HD-wallpaper-artistic-pixel-art.jpg">
 
 <!--
 **vnynx/vnynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
